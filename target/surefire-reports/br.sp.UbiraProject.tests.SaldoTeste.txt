@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.sp.UbiraProject.tests.SaldoTeste
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.648 s - in br.sp.UbiraProject.tests.SaldoTeste

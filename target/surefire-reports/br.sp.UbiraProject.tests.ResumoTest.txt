@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: br.sp.UbiraProject.tests.ResumoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.808 s <<< FAILURE! - in br.sp.UbiraProject.tests.ResumoTest
+teste2_ResumoMensal(br.sp.UbiraProject.tests.ResumoTest)  Time elapsed: 0.808 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: #email
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-27BIDBDU', ip: '192.168.15.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 137.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20250414091429, moz:geckodriverVersion: 0.32.2, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19596, moz:profile: C:\Users\bira2\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: e0e387b5-aedf-40d1-ba0f-99cc69160ad9
+*** Element info: {Using=id, value=email}
+

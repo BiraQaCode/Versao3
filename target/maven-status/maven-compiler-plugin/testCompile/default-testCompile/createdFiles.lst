@@ -1,0 +1,7 @@
+br\sp\UbiraProject\tests\ResumoTest.class
+br\sp\UbiraProject\Suite\SuiteTest.class
+br\sp\UbiraProject\tests\ContaTest.class
+br\sp\UbiraProject\CoreTest\BaseTest.class
+br\sp\UbiraProject\tests\RemoverMovimentacaoContaTest.class
+br\sp\UbiraProject\tests\SaldoTeste.class
+br\sp\UbiraProject\tests\MovimentacaoTest.class

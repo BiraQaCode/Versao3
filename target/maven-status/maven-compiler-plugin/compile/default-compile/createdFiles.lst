@@ -1,0 +1,13 @@
+br\sp\UbiraProject\core\Propriedades.class
+br\sp\UbiraProject\core\BasePage.class
+br\sp\UbiraProject\page\ContasPage.class
+br\sp\UbiraProject\page\HomePage.class
+br\sp\UbiraProject\page\LoginPage.class
+br\sp\UbiraProject\utils\DataUtils.class
+br\sp\UbiraProject\core\DriverFactory$1.class
+br\sp\UbiraProject\page\MovimentacaoPage.class
+br\sp\UbiraProject\core\DriverFactory.class
+br\sp\UbiraProject\page\MenuPage.class
+br\sp\UbiraProject\core\Propriedades$Browsers.class
+br\sp\UbiraProject\core\DriverFactory$2.class
+br\sp\UbiraProject\page\ResumoPage.class
